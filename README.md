@@ -20,10 +20,14 @@ It's same for windows, just type in CMD
   
 ![image](https://user-images.githubusercontent.com/49925421/79359657-29db5d80-7f43-11ea-82d0-1eadee743f9d.png)
 
-<h1 align="center"> STEP 3 <h1>
+<h1 align="center"> STEP 3 </h1>
 
 ![image](https://user-images.githubusercontent.com/49925421/79359886-6ad37200-7f43-11ea-9ceb-3a4d63f91859.png)
 
-<h1 align="center"> STEP 4 <h1>
+<h1 align="center"> STEP 4 </h1>
+Choose default (babel,eslint) and press enter
 
 ![image](https://user-images.githubusercontent.com/49925421/79360025-a1a98800-7f43-11ea-920d-9794a1ddbae9.png)
+
+<h1 align="center"> STEP 5 </h1>
+
