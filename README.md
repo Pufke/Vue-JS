@@ -29,5 +29,18 @@ Choose default (babel,eslint) and press enter
 
 ![image](https://user-images.githubusercontent.com/49925421/79360025-a1a98800-7f43-11ea-920d-9794a1ddbae9.png)
 
+Now we created directory test
+
 <h1 align="center"> STEP 5 </h1>
+
+Change diretory to test (cd test), and start server
+
+![image](https://user-images.githubusercontent.com/49925421/79360880-d36f1e80-7f44-11ea-890b-b7c322c6824e.png)
+
+<h1 align="center"> CONGRATS </h1>
+
+
+![image](https://user-images.githubusercontent.com/49925421/79361000-02859000-7f45-11ea-9c72-bf79a9637e41.png)
+
+![image](https://user-images.githubusercontent.com/49925421/79361113-2943c680-7f45-11ea-955b-2c2f68633c5f.png)
 
